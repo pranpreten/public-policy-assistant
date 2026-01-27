@@ -1,0 +1,27 @@
+# Claude
+.claude/
+
+# Models (너무 큼 - HuggingFace에서 별도 다운로드)
+models/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Logs
+*.log
+server.log
+
+# HuggingFace cache
+.cache/
+
+# Environment
+.env
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
